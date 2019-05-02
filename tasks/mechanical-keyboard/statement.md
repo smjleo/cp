@@ -6,7 +6,7 @@ Leo is addicted to building and collecting [custom mechanical keyboards](https:/
 Given the amount of money in his bank account, the price of the shelves and the amount of keyboards each of them can store, determine the maximum amount of keyboards he can store.      
 
 ### Input format
-The first line of input will contain two space-separated integers, `n` and `m`, which are the number of shelves available in the store.
+The first line of input will contain two space-separated integers, `n` and `m`, which are the number of shelves available in the store and the amount of money in Leo's bank account respectively.
 The next `n` lines will contain 2 space-separated integers, `A[i]` and `P[i]` respectively, where `A[i]` denotes the amount of keyboards the `i`-th shelf can store, and where `P[i]` denotes the price of the `i`-th shelf.
 
 ### Constraints
