@@ -15,7 +15,9 @@ The next `t` lines of integers will contain an integer `n[i]`, giving the number
 
 ### Constraints
 1 <= `t` <= 10^6
+
 2 <= `n[i]` <= 10^18
+
 `n[i]` is guaranteed to be even
 
 ### Output Format 
