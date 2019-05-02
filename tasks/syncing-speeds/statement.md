@@ -14,7 +14,7 @@ The next line of input contains `n` integers `S[0]...S[n-1]`, where `S[i]` repre
 One integer, describing the speed to start with on the first slope.
 
 ### Constraints
-1 <= `n` <= 10^9  
+1 <= `n` <= 10^8 
 1 <= `S[i]` <= 10^9
 
 ### Subtasks
