@@ -24,9 +24,9 @@ The next `t` lines of integers will contain an integer `n[i]`, giving the number
 Output 2 integers on `t` lines, where the `i`-th line contains two primes `p` and `q` that add up to `n[i]` and minimize `|p - q|`.
 
 ### Subtasks
--- **Subtask 1**: `t` = 2 (5 points)
--- **Subtask 2**: `n[i]` <= 10^9 (5 points)
--- **Subtask 3**: No additional constraints (90 points)
+* **Subtask 1**: `t` = 2 (5 points)
+* **Subtask 2**: `n[i]` <= 10^9 (5 points)
+* **Subtask 3**: No additional constraints (90 points)
 
 ### Sample Input 1
 ```
