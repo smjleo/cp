@@ -3,7 +3,8 @@
 
 In mathematical graph theory, there's a concept of a 'dual graph'. The idea is that every enclosed region of the graph turns into its own node, and its edges are determined by which regions share an edge.
 
-Here's an example: ![Dual graph](https://upload.wikimedia.org/wikipedia/commons/b/ba/Duals_graphs.svg)
+Here's an example:  
+![Dual graph](https://upload.wikimedia.org/wikipedia/commons/b/ba/Duals_graphs.svg)
 
 Note that everything 'outside' the graph is considered as one infinitely large region.
 
