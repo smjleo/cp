@@ -16,6 +16,7 @@ On the next `n` lines of input will be 2 integers `a` and `b`, representing that
 
 ### Constraints
 1 <= `n` <= 10^4
+
 1 <= `e` <= 10^8
 
 ### Output Format
