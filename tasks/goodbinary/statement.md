@@ -18,7 +18,7 @@ Output a single integer, the number of good binary numbers of length `n` MOD 100
 - **Subtask 1**: `n` <= 10 (10 points)
 - **Subtask 2**: `n` <= 1000 (30 points)
 - **Subtask 3**: No additional constraints (60 points)
-...
+
 
 ### Sample Input 1
 ```2```
