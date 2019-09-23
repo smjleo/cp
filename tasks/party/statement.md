@@ -1,7 +1,7 @@
 # party
 
 ### Problem Statement
-Vir is holding a party to celebrate his success in the International Olympiad in Infomercials, where he has won a gold medal. The party goes on for n hours, 
+Leo is holding a party to celebrate his success in the International Olympiad in Infomercials, where he has won a gold medal. The party goes on for n hours, 
 
 ### Input format
 [Input]
