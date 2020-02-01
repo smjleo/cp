@@ -29,10 +29,9 @@ In other words, given an array, find the value `h` in which there is the most nu
 ### Subtasks
 - **Subtask 1**: `k` = 0 (5 points)
 - **Subtask 2**: `k` = 1 (3 points)
-- **Subtask 3**: `n`, `k` <= 10 (10 points)
+- **Subtask 3**: `n`, `k` <= 18 (10 points)
 - **Subtask 4**: `k` <= 2000 (32 points)
 - **Subtask 5**: No additional constraints. (50 points)
-...
 
 ### Sample Input 1
 [Input1]
