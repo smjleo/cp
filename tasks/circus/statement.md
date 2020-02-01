@@ -48,4 +48,3 @@ In other words, given an array, find the value `h` in which there is the most nu
 ### Sample Output 2
 [Output2]
 
-...
