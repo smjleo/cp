@@ -19,9 +19,9 @@ In other words, given an array, find the value `h` in which there is the most nu
 [Input]
 
 ### Constraints
-* 2 <= `n` <= 2000
+* 2 <= `n` <= 500
 * 0 <= `k` <= 10^18
-* 0 <= `A[i]` <= 1000
+* 0 <= `A[i]` <= 200
 
 ### Output format
 [Output]
