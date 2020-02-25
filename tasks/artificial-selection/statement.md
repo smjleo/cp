@@ -12,7 +12,7 @@ Your program must read from standard input. The first line contains 2 integers, 
 
 ### Constraints
 Time Limit: 2 seconds
-`1 <= N <= 10^9`
+`1 <= N <= 10^7`
 
 ### Output format
 Your program must output one line with a single integer to the standard output, which is the number of cows which sell well.
@@ -20,8 +20,8 @@ Your program must output one line with a single integer to the standard output, 
 ### Subtasks
 Your program will be tested on input instances that satisfy the following restrictions:
 - **Subtask 1**: `1 <= N <= 100` and `K = N` (20 points)
-- **Subtask 2**: `1 <= N <= 10^6` and `0 <= K <= N` (30 points)
-- **Subtask 3**: `1 <= N <= 10^9` and `0 <= K <= N` (50 points)
+- **Subtask 2**: `1 <= N <= 10^3` and `0 <= K <= N` (30 points)
+- **Subtask 3**: `1 <= N <= 10^7` and `0 <= K <= N` (50 points)
 
 ### Sample Input 1
 ```
