@@ -51,7 +51,6 @@ The cows with muscle values of 5, 6, 7, and 8 will sell well. Therefore, Farmer 
 ```
 
 ### Sample Output 2
-[Output2]
 
 ```
 1
