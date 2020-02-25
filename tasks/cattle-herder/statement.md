@@ -14,15 +14,19 @@ For this situation, find the least amount of moves needed to go over all the gra
 
 ### Input format
 Your program must read from standard input. The first line contains 6 integers, `H`, `W`.
+
 On the 2nd to `(H + 1)`th lines: the `(i + 1)`th line contains `W` space-seperated characters, representing either a ditch ('#'), road ('.') or grass ('G') square. 
+
 The `(H + 2)`th line contains two integers `SX`, `SY`, representing the coordinate of the start position.
+
 The `(H + 3)`th line contains two integers `EX`, `EY`, representing the coordinate of the end position.
+
 
 ### Constraints
 [Const]
 
 ### Output format
-Your program must output one line with a single integer to the standard output, which is the minimum number of moves needed to o over all the grass squares, and afterwards, reaching the end point. 
+Your program must output one line with a single integer to the standard output, which is the minimum number of moves needed to go over all the grass squares, and afterwards, reaching the end point. 
 
 ### Subtasks
 - **Subtask 1**: [st1]
