@@ -1,9 +1,9 @@
 # Artificial Selection
 
 ### Problem Statement
-Farmer Lucas `N` Belgian Blue cows. Belgian Blue cows are special as they have a mutation in the myostatin gene. Usually, the myostatin gene is able to stop muscle growth, however, the myostatin gene in this cow lacks the ability to function properly. This leads to the cows being able to grow muscle at an accelerated rate. As a result, these cows have more lean meat which, as Farmer Lucas has observed, sells better in the food marketplace.
+Farmer Lucas owns `N` Belgian Blue cows. Belgian Blue cows are special as they have a mutation in the myostatin gene. Usually, the myostatin gene is able to stop muscle growth, however, the myostatin gene in this cow lacks the ability to function properly. This leads to the cows being able to grow muscle at an accelerated rate. As a result, these cows have more lean meat which, as Farmer Lucas has observed, sells better in the food marketplace.
 
-To help with Farmer Lucas' endeavours, the government has subsidised his farm which allows him to purchase a Belgian Blue cow muscle reader. This revolutionary technology allows farmers like Lucas to quantify the amount of muscle a Belgian Blue cow has. On top of this, Farmer Lucas has also observed that only Belgian Blue cows with a muscle value strictly more than `K` sell well. Therefore, Farmer Lucas would wants to take these muscular cows and breed them together so that the future offspring will inherit large muscles as well. 
+To help with Farmer Lucas' endeavours, the government has subsidised his farm which allows him to purchase a Belgian Blue cow muscle reader. This revolutionary technology allows farmers like Lucas to quantify the amount of muscle a Belgian Blue cow has. On top of this, Farmer Lucas has also observed that only Belgian Blue cows with a muscle value strictly more than `K` sell well. Therefore, Farmer Lucas wants to take these muscular cows and breed them together so that the future offspring will inherit large muscles as well. 
 
 Given `N` muscle values of Farmer Lucas' `N` cows and the minimum viable muscle value `K`, find how many cows Farmer Lucas should breed.
 
