@@ -9,7 +9,7 @@ He calls a binary number "good" if there are no consecutive appearances of the n
 The input will be a single integer, `n`.
 
 ### Constraints
-1 <= `n` <= 10^8
+1 <= `n` <= 10^6
 
 ### Output format
 Output a single integer, the number of good binary numbers of length `n` MOD 1000000009.
